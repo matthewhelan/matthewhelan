@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Whelan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Reinforcement Learning
 - 📫 How to reach me mw3shc@virginia.edu
 
 <!---
